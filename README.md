@@ -13,6 +13,10 @@
  ### B. Result
  - **ACCURACY & LOSS**
     - Model 1
+  
+      <img src="Result/acc_1.jpg" width="300">
+      <img src="Result/acc_1.jpg" width="300">
+    
     - Model 2
     - Model 3
  - **CONFUSION MATRIX**

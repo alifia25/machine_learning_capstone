@@ -1,2 +1,4 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 D:/projek/Dataset/* filter=lfs diff=lfs merge=lfs -text
+D:/KULIAH/Bangkit/Capstone/model_2.h5 filter=lfs diff=lfs merge=lfs -text
+Capstone/model_2.h5 filter=lfs diff=lfs merge=lfs -text
